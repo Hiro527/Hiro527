@@ -4,4 +4,4 @@
 - 🐤Twitter: [zHiro527](https://twitter.com/zHiro527)
 - 💬Discord: Hiro527#0527
 - 🏢Group: [Fascode Network](https://fascode.net)
-- 📃Web: [Hiro527](https://hiro527.github.io)
+- 📃Web: [About Hiro527](https://hiro527.github.io)
