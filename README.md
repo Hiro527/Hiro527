@@ -1,7 +1,7 @@
 - 😁Name: Hiro
 - 🔊Language: 日本語/Japanese
 - 🥳Birthday: 2004/05/27
-- 🐤Twitter: [zHiro527](https://twitter.com/zHiro527)
+- 🐤Twitter: [hiroqss](https://twitter.com/hiroqss)
 - 💬Discord: Hiro527#0527
 - 🏢Group: [Fascode Network](https://fascode.net)
-- 📃Web: [About Hiro527](https://hiro527.github.io)
+- 📃Web: [ぼくのへや。](https://www.hiroqss.com)
