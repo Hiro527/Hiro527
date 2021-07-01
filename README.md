@@ -3,5 +3,4 @@
 - 🥳Birthday: 2004/05/27
 - 🐤Twitter: [hiroqss](https://twitter.com/hiroqss)
 - 💬Discord: Hiro527#0527
-- 🏢Group: [Fascode Network](https://fascode.net)
 - 📃Web: [ぼくのへや。](https://www.hiroqss.com)
