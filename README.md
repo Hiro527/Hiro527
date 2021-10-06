@@ -1,1 +1,2 @@
-![Metrics](https://github.com/Hiro527/Hiro527/blob/main/github-metrics.svg)
+<img align="left" width="400" src="https://github.com/Hiro527/Hiro527/metrics_left.svg">
+<img align="right" width="400" src="https://github.com/Hiro527/Hiro527/metrics_right.svg">
