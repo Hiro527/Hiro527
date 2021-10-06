@@ -1,2 +1,3 @@
-<img align="left" width="400" src="https://raw.githubusercontent.com/Hiro527/Hiro527/main/metrics_left.svg">
-<img align="right" width="400" src="https://raw.githubusercontent.com/Hiro527/Hiro527/main/metrics_right.svg">
+<div align="center">
+    <img width="500" src="https://raw.githubusercontent.com/Hiro527/Hiro527/main/metrics.svg">
+</div>
