@@ -1,6 +1,1 @@
-- 😁Name: Hiro
-- 🔊Language: 日本語/Japanese
-- 🥳Birthday: 2004/05/27
-- 🐤Twitter: [hiroqss](https://twitter.com/hiroqss)
-- 💬Discord: Hiro527#0527
-- 📃Web: [ぼくのへや。](https://www.hiroqss.com)
+![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
