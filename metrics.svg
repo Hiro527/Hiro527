@@ -1522,18 +1522,18 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 29 edited files from 19 commits over last 7 days
+            estimation from 29 edited files from 17 commits over last 7 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="278.73859489051097" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="278.73859489051097" y="0" width="68.35994525547444" height="8" fill="#cb171e"/>
-                    <rect mask="url(#languages-bar)" x="347.0985401459854" y="0" width="45.066149635036496" height="8" fill="#292929"/>
-                    <rect mask="url(#languages-bar)" x="392.16468978102193" y="0" width="43.125" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="435.28968978102193" y="0" width="24.7103102189781" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="280.7881433823529" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="280.7881433823529" y="0" width="65.48023897058823" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="346.26838235294116" y="0" width="45.39751838235294" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="391.6659007352941" y="0" width="43.44209558823529" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="435.1079963235294" y="0" width="24.89200367647059" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1544,7 +1544,7 @@
                     </div>
                             <small>
                                 <div>5.31 kB</div>
-                                <div>60.6%</div>
+                                <div>61.04%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1554,7 +1554,7 @@
                     </div>
                             <small>
                                 <div>859 bytes</div>
-                                <div>9.8%</div>
+                                <div>9.87%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1564,7 +1564,7 @@
                     </div>
                             <small>
                                 <div>471 bytes</div>
-                                <div>5.37%</div>
+                                <div>5.41%</div>
                             </small>
                         </div>
                     </section>
@@ -1575,8 +1575,8 @@
                       YAML
                     </div>
                             <small>
-                                <div>1.30 kB</div>
-                                <div>14.86%</div>
+                                <div>1.24 kB</div>
+                                <div>14.23%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1586,7 +1586,7 @@
                     </div>
                             <small>
                                 <div>822 bytes</div>
-                                <div>9.38%</div>
+                                <div>9.44%</div>
                             </small>
                         </div>
                     </section>
