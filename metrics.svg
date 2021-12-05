@@ -1522,16 +1522,16 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 16 edited files from 24 commits over last 7 days
+            estimation from 16 edited files from 25 commits over last 6 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="436.1452592906599" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="436.1452592906599" y="0" width="18.654797230464887" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="454.80005652112476" y="0" width="5.1999434788752295" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="435.6939551923348" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="435.6939551923348" y="0" width="19.120755248696632" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="454.8147104410314" y="0" width="5.185289558968578" height="8" fill="#292929"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1541,8 +1541,8 @@
                       JavaScript
                     </div>
                             <small>
-                                <div>6.71 kB</div>
-                                <div>94.81%</div>
+                                <div>6.72 kB</div>
+                                <div>94.72%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1563,8 +1563,8 @@
                       HTML
                     </div>
                             <small>
-                                <div>287 bytes</div>
-                                <div>4.06%</div>
+                                <div>295 bytes</div>
+                                <div>4.16%</div>
                             </small>
                         </div>
                     </section>
@@ -2584,10 +2584,10 @@
                             </g>
                         </g>
                         <g transform="translate(44.199999999999996, 26)">
-                            <g transform="translate(0, 4.690909090909091)">
+                            <g transform="translate(0, 4.472727272727273)">
                                 <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.309090909090909 0,2.309090909090909 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.309090909090909 1.7,3.309090909090909 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.5272727272727273 0,2.5272727272727273 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.5272727272727273 1.7,3.5272727272727273 z"/>
                             </g>
                         </g>
                     </g>
