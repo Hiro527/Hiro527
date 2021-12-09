@@ -1522,15 +1522,15 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 15 edited files from 27 commits over last 7 days
+            estimation from 15 edited files from 25 commits over last 7 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="452.0156216098937" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="452.0156216098937" y="0" width="7.984378390106314" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="452.03980099502485" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="452.03980099502485" y="0" width="7.960199004975124" height="8" fill="#292929"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1540,8 +1540,8 @@
                       JavaScript
                     </div>
                             <small>
-                                <div>4.53 kB</div>
-                                <div>98.26%</div>
+                                <div>4.54 kB</div>
+                                <div>98.27%</div>
                             </small>
                         </div>
                     </section>
@@ -1553,7 +1553,7 @@
                     </div>
                             <small>
                                 <div>80 bytes</div>
-                                <div>1.74%</div>
+                                <div>1.73%</div>
                             </small>
                         </div>
                     </section>
