@@ -1454,11 +1454,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="330.8184931844229" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="330.8184931844229" y="0" width="93.1138863074382" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="423.93237949186107" y="0" width="28.007276954450074" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="451.9396564463111" y="0" width="6.558847771761083" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="458.49850421807224" y="0" width="1.5014957819278019" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="330.8274009666912" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="330.8274009666912" y="0" width="93.10746558789535" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="423.9348665545865" y="0" width="28.005345697173478" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="451.94021225176004" y="0" width="6.558395502784491" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="458.4986077545445" y="0" width="1.5013922454555009" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1522,7 +1522,7 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 14 edited files from 19 commits over last 7 days
+            estimation from 15 edited files from 20 commits over last 7 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
@@ -2620,10 +2620,10 @@
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2181818181818183 0,1.2181818181818183 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2181818181818183 1.7,2.2181818181818183 z"/>
                             </g>
-                            <g transform="translate(-8.5, 10.345454545454546)">
+                            <g transform="translate(-8.5, 10.236363636363636)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6545454545454543 0,1.6545454545454545 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6545454545454545 1.7,2.6545454545454543 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.7636363636363637 0,1.7636363636363637 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.7636363636363637 1.7,2.7636363636363637 z"/>
                             </g>
                         </g>
                     </g>
