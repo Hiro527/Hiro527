@@ -145,14 +145,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 11 edited files from 7 commits over last 7 days</small>
+                <small>estimation from 7 edited files from 5 commits over last 7 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="410.36200138344475" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="410.36200138344475" y="0" width="49.63799861655522" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="408.5707171314741" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="408.5707171314741" y="0" width="51.429282868525895" height="8" fill="#292929"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -164,8 +164,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>3.87 kB</div>
-                                <div>89.21%</div>
+                                <div>3.57 kB</div>
+                                <div>88.82%</div>
                             </small>
                         </div>
                     </section>
@@ -178,8 +178,8 @@
                                 JSON
                             </div>
                             <small>
-                                <div>468 bytes</div>
-                                <div>10.79%</div>
+                                <div>449 bytes</div>
+                                <div>11.18%</div>
                             </small>
                         </div>
                     </section>
