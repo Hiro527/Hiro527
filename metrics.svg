@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="599" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="619" class="">
     <defs>
         <style/>
     </defs>
@@ -70,11 +70,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="330.8274009666912" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="330.8274009666912" y="0" width="93.10746558789535" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="423.9348665545865" y="0" width="28.005345697173478" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="451.94021225176004" y="0" width="6.558395502784491" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="458.4986077545445" y="0" width="1.5013922454555009" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="330.8363075205621" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="330.8363075205621" y="0" width="93.10104575377997" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="423.93735327434206" y="0" width="28.003414706220347" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="451.94076798056244" y="0" width="6.557943296176514" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="458.49871127673896" y="0" width="1.5012887232610443" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -145,17 +145,43 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 0 edited files from 0 commits over last NaN days</small>
+                <small>estimation from 4 edited files from 1 commit over last 0 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="460" height="8" fill="#d1d5da"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="412.4882629107981" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="412.4882629107981" y="0" width="47.51173708920188" height="8" fill="#292929"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                JavaScript
+                            </div>
+                            <small>
+                                <div>191 bytes</div>
+                                <div>89.67%</div>
+                            </small>
+                        </div>
                     </section>
                     <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#292929" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                JSON
+                            </div>
+                            <small>
+                                <div>22 bytes</div>
+                                <div>10.33%</div>
+                            </small>
+                        </div>
                     </section>
                 </div>
             </section>
