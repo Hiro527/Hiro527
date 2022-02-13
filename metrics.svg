@@ -146,15 +146,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 12 edited files from 11 commits over last 7 days</small>
+                <small>estimation from 11 edited files from 6 commits over last 6 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="276.21495327102804" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="276.21495327102804" y="0" width="145.09345794392524" height="8" fill="#cb171e"/>
-                    <rect mask="url(#languages-bar)" x="421.30841121495325" y="0" width="38.691588785046726" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="358.78603945371776" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="358.78603945371776" y="0" width="55.14415781487102" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="413.93019726858876" y="0" width="46.06980273141123" height="8" fill="#292929"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -167,7 +167,7 @@
                             </div>
                             <small>
                                 <div>514 bytes</div>
-                                <div>60.05%</div>
+                                <div>78%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -178,8 +178,8 @@
                                 JSON
                             </div>
                             <small>
-                                <div>72 bytes</div>
-                                <div>8.41%</div>
+                                <div>66 bytes</div>
+                                <div>10.02%</div>
                             </small>
                         </div>
                     </section>
@@ -192,8 +192,8 @@
                                 YAML
                             </div>
                             <small>
-                                <div>270 bytes</div>
-                                <div>31.54%</div>
+                                <div>79 bytes</div>
+                                <div>11.99%</div>
                             </small>
                         </div>
                     </section>
