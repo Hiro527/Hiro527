@@ -146,15 +146,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 7 edited files from 5 commits over last 7 days</small>
+                <small>estimation from 5 edited files from 4 commits over last 6 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="348.22429906542055" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="348.22429906542055" y="0" width="84.90654205607477" height="8" fill="#cb171e"/>
-                    <rect mask="url(#languages-bar)" x="433.13084112149534" y="0" width="26.869158878504674" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="332.0855614973262" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="332.0855614973262" y="0" width="97.16577540106952" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="429.2513368983957" y="0" width="30.74866310160428" height="8" fill="#292929"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -166,8 +166,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>324 bytes</div>
-                                <div>75.7%</div>
+                                <div>270 bytes</div>
+                                <div>72.19%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -179,7 +179,7 @@
                             </div>
                             <small>
                                 <div>25 bytes</div>
-                                <div>5.84%</div>
+                                <div>6.68%</div>
                             </small>
                         </div>
                     </section>
@@ -193,7 +193,7 @@
                             </div>
                             <small>
                                 <div>79 bytes</div>
-                                <div>18.46%</div>
+                                <div>21.12%</div>
                             </small>
                         </div>
                     </section>
