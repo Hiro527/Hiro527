@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="662" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="642" class="">
     <defs>
         <style/>
     </defs>
@@ -146,43 +146,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 5 edited files from 4 commits over last 7 days</small>
+                <small>estimation from 4 edited files from 2 commits over last 7 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="332.0855614973262" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="332.0855614973262" y="0" width="97.16577540106952" height="8" fill="#cb171e"/>
-                    <rect mask="url(#languages-bar)" x="429.2513368983957" y="0" width="30.74866310160428" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="363.40000000000003" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="363.40000000000003" y="0" width="96.6" height="8" fill="#292929"/>
                 </svg>
                 <div class="row fill-width">
-                    <section>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                JavaScript
-                            </div>
-                            <small>
-                                <div>270 bytes</div>
-                                <div>72.19%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#292929" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                JSON
-                            </div>
-                            <small>
-                                <div>25 bytes</div>
-                                <div>6.68%</div>
-                            </small>
-                        </div>
-                    </section>
                     <section>
                         <div class="field language details">
                             <div class="field">
@@ -193,7 +166,21 @@
                             </div>
                             <small>
                                 <div>79 bytes</div>
-                                <div>21.12%</div>
+                                <div>79%</div>
+                            </small>
+                        </div>
+                    </section>
+                    <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#292929" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                JSON
+                            </div>
+                            <small>
+                                <div>21 bytes</div>
+                                <div>21%</div>
                             </small>
                         </div>
                     </section>
