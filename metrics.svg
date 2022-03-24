@@ -159,20 +159,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 72 edited files from 66 commits over last 7 days</small>
+                <small>estimation from 71 edited files from 67 commits over last 6 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="183.0943999133449" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="183.0943999133449" y="0" width="119.48440207972268" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="302.5788019930676" y="0" width="72.89021880415945" height="8" fill="#292929"/>
-                    <rect mask="url(#languages-bar)" x="375.469020797227" y="0" width="58.322140381282495" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="433.7911611785095" y="0" width="12.699577556325822" height="8" fill="#cb171e"/>
-                    <rect mask="url(#languages-bar)" x="446.4907387348353" y="0" width="9.379874350086656" height="8" fill="#d1dbe0"/>
-                    <rect mask="url(#languages-bar)" x="455.87061308492196" y="0" width="2.9522313691507795" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="458.82284445407277" y="0" width="1.1771555459272098" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="183.10679611650485" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="183.10679611650485" y="0" width="119.49249163856956" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="302.5992877550744" y="0" width="72.86400996601265" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="375.4632977210871" y="0" width="58.32608901707492" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="433.78938673816197" y="0" width="12.700437367131116" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="446.4898241052931" y="0" width="9.380509404070358" height="8" fill="#d1dbe0"/>
+                    <rect mask="url(#languages-bar)" x="455.87033350936343" y="0" width="2.9524312466994354" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="458.82276475606284" y="0" width="1.1772352439371165" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -185,7 +185,7 @@
                             </div>
                             <small>
                                 <div>29.4 kB</div>
-                                <div>39.8%</div>
+                                <div>39.81%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -197,7 +197,7 @@
                             </div>
                             <small>
                                 <div>11.7 kB</div>
-                                <div>15.85%</div>
+                                <div>15.84%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -235,7 +235,7 @@
                             </div>
                             <small>
                                 <div>19.1 kB</div>
-                                <div>25.97%</div>
+                                <div>25.98%</div>
                             </small>
                         </div>
                         <div class="field language details">
