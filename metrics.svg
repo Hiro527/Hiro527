@@ -159,17 +159,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 27.9kb of code in 29 edited files across 35 commits over last 7 days</small>
+                <small>estimation from 31.9kb of code in 29 edited files across 35 commits over last 7 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="285.1231975714647" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="285.1231975714647" y="0" width="93.90842398178599" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="379.03162155325066" y="0" width="44.89451049835568" height="8" fill="#292929"/>
-                    <rect mask="url(#languages-bar)" x="423.9261320516063" y="0" width="26.508474576271187" height="8" fill="#ff9900"/>
-                    <rect mask="url(#languages-bar)" x="450.43460662787754" y="0" width="9.56539337212244" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="314.1278750791306" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="314.1278750791306" y="0" width="78.33298164169656" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="392.46085672082717" y="0" width="37.44840683688542" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="429.9092635577126" y="0" width="22.111837940493775" height="8" fill="#ff9900"/>
+                    <rect mask="url(#languages-bar)" x="452.0211014982064" y="0" width="7.978898501793627" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -181,8 +181,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>12.2 kB</div>
-                                <div>61.98%</div>
+                                <div>16.1 kB</div>
+                                <div>68.29%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -194,7 +194,7 @@
                             </div>
                             <small>
                                 <div>1.93 kB</div>
-                                <div>9.76%</div>
+                                <div>8.14%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -206,7 +206,7 @@
                             </div>
                             <small>
                                 <div>411 bytes</div>
-                                <div>2.08%</div>
+                                <div>1.73%</div>
                             </small>
                         </div>
                     </section>
@@ -220,7 +220,7 @@
                             </div>
                             <small>
                                 <div>4.04 kB</div>
-                                <div>20.41%</div>
+                                <div>17.03%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -232,7 +232,7 @@
                             </div>
                             <small>
                                 <div>1.14 kB</div>
-                                <div>5.76%</div>
+                                <div>4.81%</div>
                             </small>
                         </div>
                     </section>
