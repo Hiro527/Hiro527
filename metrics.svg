@@ -159,16 +159,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 29.3kb of code in 30 edited files across 21 commits over last 6 days</small>
+                <small>estimation from 30kb of code in 30 edited files across 21 commits over last 6 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="380.3059581320451" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="380.3059581320451" y="0" width="52.38325281803543" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="432.6892109500805" y="0" width="20.82125603864734" height="8" fill="#292929"/>
-                    <rect mask="url(#languages-bar)" x="453.5104669887279" y="0" width="6.489533011272142" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="382.1109894621596" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="382.1109894621596" y="0" width="51.19679759135076" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="433.30778705351037" y="0" width="20.349664705077323" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="453.6574517585877" y="0" width="6.342548241412344" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -180,8 +180,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>23.6 kB</div>
-                                <div>82.68%</div>
+                                <div>24.2 kB</div>
+                                <div>83.07%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -193,7 +193,7 @@
                             </div>
                             <small>
                                 <div>1.29 kB</div>
-                                <div>4.53%</div>
+                                <div>4.42%</div>
                             </small>
                         </div>
                     </section>
@@ -207,7 +207,7 @@
                             </div>
                             <small>
                                 <div>3.25 kB</div>
-                                <div>11.39%</div>
+                                <div>11.13%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -219,7 +219,7 @@
                             </div>
                             <small>
                                 <div>403 bytes</div>
-                                <div>1.41%</div>
+                                <div>1.38%</div>
                             </small>
                         </div>
                     </section>
