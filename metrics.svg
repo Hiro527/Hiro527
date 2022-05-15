@@ -159,17 +159,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 13kb of code in 16 edited files across 14 commits over last 7 days</small>
+                <small>estimation from 13kb of code in 16 edited files across 13 commits over last 3 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="220.92778915501736" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="220.92778915501736" y="0" width="148.3091443326507" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="369.236933487668" y="0" width="68.4818805093046" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="437.7188139969727" y="0" width="15.973644377170332" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="453.69245837414303" y="0" width="6.307541625857003" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="219.83720930232556" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="219.83720930232556" y="0" width="148.9856887298748" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="368.8228980322003" y="0" width="68.7942754919499" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="437.61717352415025" y="0" width="16.046511627906977" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="453.6636851520572" y="0" width="6.336314847942755" height="8" fill="#292929"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -181,8 +181,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>5.39 kB</div>
-                                <div>48.03%</div>
+                                <div>5.34 kB</div>
+                                <div>47.79%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -194,7 +194,7 @@
                             </div>
                             <small>
                                 <div>1.67 kB</div>
-                                <div>14.89%</div>
+                                <div>14.96%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -206,7 +206,7 @@
                             </div>
                             <small>
                                 <div>154 bytes</div>
-                                <div>1.37%</div>
+                                <div>1.38%</div>
                             </small>
                         </div>
                     </section>
@@ -220,7 +220,7 @@
                             </div>
                             <small>
                                 <div>3.62 kB</div>
-                                <div>32.24%</div>
+                                <div>32.39%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -232,7 +232,7 @@
                             </div>
                             <small>
                                 <div>390 bytes</div>
-                                <div>3.47%</div>
+                                <div>3.49%</div>
                             </small>
                         </div>
                     </section>
