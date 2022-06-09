@@ -159,17 +159,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 6.62kb of code in 26 edited files across 11 commits over last 6 days</small>
+                <small>estimation from 6.64kb of code in 26 edited files across 11 commits over last 7 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="230.526958912479" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="230.526958912479" y="0" width="166.5892775316939" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="397.1162364441729" y="0" width="27.120818695585765" height="8" fill="#292929"/>
-                    <rect mask="url(#languages-bar)" x="424.23705513975864" y="0" width="19.04078203757446" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="443.2778371773331" y="0" width="16.72216282266687" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="229.824881985686" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="229.824881985686" y="0" width="166.0819247753921" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="395.9068067610781" y="0" width="27.038221410080705" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="422.9450281711588" y="0" width="20.38373686614893" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="443.32876503730773" y="0" width="16.67123496269225" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -182,7 +182,7 @@
                             </div>
                             <small>
                                 <div>3.28 kB</div>
-                                <div>50.11%</div>
+                                <div>49.96%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -194,7 +194,7 @@
                             </div>
                             <small>
                                 <div>386 bytes</div>
-                                <div>5.9%</div>
+                                <div>5.88%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -206,7 +206,7 @@
                             </div>
                             <small>
                                 <div>238 bytes</div>
-                                <div>3.64%</div>
+                                <div>3.62%</div>
                             </small>
                         </div>
                     </section>
@@ -220,7 +220,7 @@
                             </div>
                             <small>
                                 <div>2.37 kB</div>
-                                <div>36.22%</div>
+                                <div>36.1%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -231,8 +231,8 @@
                                 HTML
                             </div>
                             <small>
-                                <div>271 bytes</div>
-                                <div>4.14%</div>
+                                <div>291 bytes</div>
+                                <div>4.43%</div>
                             </small>
                         </div>
                     </section>
