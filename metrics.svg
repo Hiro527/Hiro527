@@ -159,19 +159,19 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 84.1kb of code in 26 edited files across 5 commits over last 7 days</small>
+                <small>estimation from 83.9kb of code in 24 edited files across 4 commits over last 7 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="415.287268196847" height="8" fill="#cb171e"/>
-                    <rect mask="url(#languages-bar)" x="415.287268196847" y="0" width="11.919354065839283" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="427.20662226268627" y="0" width="11.07623748143179" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="438.28285974411807" y="0" width="6.006516843164502" height="8" fill="#ff9900"/>
-                    <rect mask="url(#languages-bar)" x="444.28937658728256" y="0" width="5.791604772629259" height="8" fill="#292929"/>
-                    <rect mask="url(#languages-bar)" x="450.08098135991185" y="0" width="5.306674972447171" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="455.387656332359" y="0" width="4.612343667640999" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="415.5511070088585" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="415.5511070088585" y="0" width="11.926926626949403" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="427.4780336358079" y="0" width="11.083274396749097" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="438.56130803255695" y="0" width="6.010332881819163" height="8" fill="#ff9900"/>
+                    <rect mask="url(#languages-bar)" x="444.57164091437613" y="0" width="5.7952842741210455" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="450.3669251884972" y="0" width="5.017800846289393" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="455.3847260347866" y="0" width="4.61527396521343" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -184,7 +184,7 @@
                             </div>
                             <small>
                                 <div>75.3 kB</div>
-                                <div>90.28%</div>
+                                <div>90.34%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -257,8 +257,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>963 bytes</div>
-                                <div>1.15%</div>
+                                <div>910 bytes</div>
+                                <div>1.09%</div>
                             </small>
                         </div>
                     </section>
@@ -1454,7 +1454,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.12m out of 99m users</span>
+                                    <span class="gh">ranked 1.12m out of 100m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">31</div>
                                     </div>
