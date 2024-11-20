@@ -71,12 +71,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="266.2454459871918" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="266.2454459871918" y="0" width="153.5000147754761" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="419.74546076266785" y="0" width="22.846199958628667" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="442.5916607212965" y="0" width="9.168773930994305" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="451.7604346522908" y="0" width="7.767921597102319" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.52835624939314" y="0" width="0.47164375060684993" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="266.32977061198295" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="266.32977061198295" y="0" width="153.4029408287022" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="419.73271144068514" y="0" width="22.853435752774445" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="442.5861471934596" y="0" width="9.171677843279674" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="451.7578250367393" y="0" width="7.770381834766304" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.5282068715056" y="0" width="0.4717931284944511" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -89,7 +89,7 @@
                             </div>
                             <small>
                                 <div>1.10 MB</div>
-                                <div>57.88%</div>
+                                <div>57.9%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -126,8 +126,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>632 kB</div>
-                                <div>33.37%</div>
+                                <div>631 kB</div>
+                                <div>33.35%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1368,7 +1368,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.99m out of 148m users</span>
+                                    <span class="gh">ranked 2.99m out of 149m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">21</div>
                                     </div>
